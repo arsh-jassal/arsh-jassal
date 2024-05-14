@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning React and Generative AI <br>
 - 👯 I’m looking to collaborate on Open Source projects <br>
 - 💬 Ask me about Frontend, Python, Sql....etc. <br>
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: The Mona Lisa has no eyebrows.
 </div>
 <br>
 <div align="center"> 
